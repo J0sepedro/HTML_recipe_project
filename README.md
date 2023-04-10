@@ -1,2 +1,4 @@
 # HTML_recipe_project
-first html project, focused on recipes. - this project is to emphasize the content I have learned so far. 
+This is my first HTML project - Recipes 
+
+this HTML only project will highlight the content and skills I have aquired so far. 
